@@ -1,4 +1,4 @@
-module go-echo-session
+module github.com/p000ic/go-echo-session
 
 go 1.17
 
